@@ -1,29 +1,7 @@
-[21812:35544:1122/213233.927:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21812:16016:1122/213234.164:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21812:35544:1122/213234.318:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21812:35544:1122/213243.845:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[6272:36692:1122/213248.508:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-669BE79011FBE91EFA0405571C18F106 will be ignored
-[21812:35544:1122/213248.843:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213253.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213258.839:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213313.842:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213318.846:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213323.846:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213329.013:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213334.014:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213402.652:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213407.653:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213412.659:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213417.675:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213522.055:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213528.862:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213543.950:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213608.977:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213629.332:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213634.839:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213639.901:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213644.947:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213655.146:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213705.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213710.357:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21812:35544:1122/213807.512:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12296:21548:1125/123654.209:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12296:9136:1125/123654.436:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12296:21548:1125/123654.557:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16196:29164:1125/123704.319:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-01992402BE8F73FCE6F9DE2EB79DA5B5 will be ignored
+[12296:21548:1125/123722.333:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12296:21548:1125/123727.333:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12296:21548:1125/123742.339:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
