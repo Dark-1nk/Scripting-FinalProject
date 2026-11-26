@@ -1,9 +1,2 @@
-<<<<<<< Updated upstream
-2026/11/24-10:08:57.665 a798 Reusing MANIFEST C:\Users\watki\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
-2026/11/24-10:08:57.674 a798 Recovering log #3
-2026/11/24-10:08:57.675 a798 Reusing old log C:\Users\watki\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\Session Storage/000003.log 
-=======
-2026/11/26-09:42:08.995 b794 Reusing MANIFEST C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
-2026/11/26-09:42:09.002 b794 Recovering log #3
-2026/11/26-09:42:09.009 b794 Reusing old log C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\Session Storage/000003.log 
->>>>>>> Stashed changes
+2026/11/26-11:05:59.578 d104 Creating DB C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/11/26-11:05:59.593 d104 Reusing MANIFEST C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
