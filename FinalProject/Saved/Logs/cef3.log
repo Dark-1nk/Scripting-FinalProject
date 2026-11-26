@@ -1,5 +1,28 @@
+<<<<<<< Updated upstream
 [14004:26368:1125/155209.581:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [14004:14396:1125/155209.834:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [14004:26368:1125/155209.936:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 [12528:20944:1125/155221.294:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-50899809553D0E8A975184452AD18CE4 will be ignored
 [14004:26368:1125/174410.785:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[15260:24240:1126/094202.756:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15260:16224:1126/094202.809:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15260:24240:1126/094202.837:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15260:16224:1126/094205.403:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15260:16224:1126/094205.406:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15260:16224:1126/094205.409:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15260:16224:1126/094205.415:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\aidan\Documents\Unreal Projects\Scripting-FinalProject\FinalProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15260:16224:1126/094207.249:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15260:16224:1126/094207.250:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4664:53212:1126/094209.000:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7F987D79CAB333D474445E01C277A72A will be ignored
+[15260:49008:1126/094210.351:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[61092:50932:1126/094210.693:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[61092:50932:1126/094210.728:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[61092:50932:1126/094210.761:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[61092:50932:1126/094210.796:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[61092:50932:1126/094221.400:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[61092:50932:1126/094224.687:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[61092:50932:1126/094232.254:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[61092:50932:1126/094234.821:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15260:24240:1126/110012.012:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
